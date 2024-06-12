@@ -1,6 +1,6 @@
 ![image](https://github.com/s28468/task12/assets/161838169/ee31262a-7f52-45be-92c1-09637523e39f)
 
-DELETE endpoint?
+DELETE endpoint? we have only 3 POST 
 
 ## Installation
 
