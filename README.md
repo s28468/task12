@@ -1,4 +1,4 @@
-![image](https://github.com/s28468/task12/assets/161838169/ea8ab6d6-8b4f-4ac3-ae26-8dd155c86545)
+![image](https://github.com/s28468/task12/assets/161838169/ee31262a-7f52-45be-92c1-09637523e39f)
 
 DELETE endpoint?
 
